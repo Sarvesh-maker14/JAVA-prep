@@ -1,0 +1,7 @@
+collections --> datastructure --> data ko program me store kare
+collections --> represent group of objects known as elements
+
+Framework --> set of APIS
+
+collection --> class 
+collections --> interface

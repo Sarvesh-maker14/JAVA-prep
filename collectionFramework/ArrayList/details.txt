@@ -1,0 +1,9 @@
+Array - primitive
+
+ArrayList --> concrete class which implements list interface
+          --> creates an dynamically resizable object
+
+Iterator --> forward direction me iteration
+ListIterator --> inherits iterator (child interface) --> forward or backward direction me iteration
+
+

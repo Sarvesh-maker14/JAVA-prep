@@ -1,0 +1,6 @@
+annotations 
+
+//@deprecated --> marker to show deprecated objects 
+//@SuppressWarnings --> ignore unused warnings
+//@SafeVarargs --> 
+//@functional Interface --> only one abstract method 

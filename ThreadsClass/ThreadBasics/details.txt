@@ -1,0 +1,8 @@
+creating threads can be achived in two ways
+1.Implementing the java.lang.Runnable interface
+--best because i can do multiple implementations 
+
+
+
+2.Extending the java.lang.Thread class
+

@@ -1,0 +1,16 @@
+abstract class
+
+
+            career(name)//parent class
+                |
+                |
+|                       |
+career(dr)          career(Er)//child class
+
+
+abstract void career (String name);
+
+all the child class have to override all the methods of the abstract parent class.
+
+we cannot create object of an abstract class
+

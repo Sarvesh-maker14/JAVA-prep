@@ -1,0 +1,38 @@
+types of polymorphism 
+1.compile time / static polymorphism --> achived via method overloading
+
+method overloading --> same name of method --> types , arguments , return types , ordering can 
+be different. 
+A a = new A();
+A a2 = new A(3,4);
+
+compile time polymorphism --> java decide karega which constructor to call during compiling
+
+
+2.run time polymorphism / dynamic polymorphism --> achived via method overriding
+
+public class Shapes {
+    void area(){
+        
+    }
+}
+
+public class Square extends Shapes {
+        @override --> annotation --> to check whether the method is overriden or not
+        void area(){
+            this will run when the object of square is created hence it
+            is overriding the parent method
+        } 
+}
+
+
+--------------Upcasting---------------------------------------
+Parent obj = new Child();
+here which method will be called depends on the child 
+
+Dynamic method dispatch --> call to a overriden method is called at run time
+
+
+
+
+final --> cannot override a method which is final
